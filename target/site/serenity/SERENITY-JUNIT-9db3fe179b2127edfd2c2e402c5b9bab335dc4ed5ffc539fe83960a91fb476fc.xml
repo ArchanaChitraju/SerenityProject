@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="com.studentapp.junit.studentsinfo.FirstSerenityTest" skipped="3" tests="5" time="29.7" timestamp="2020-05-14 03:19:10"><testcase classname="com.studentapp.junit.studentsinfo.FirstSerenityTest" name="This isa manualtest"><skipped/></testcase><testcase classname="com.studentapp.junit.studentsinfo.FirstSerenityTest" name="This isa failing"><error type="java.lang.ExceptionInInitializerError"/><system-err>null&#13;
+net.serenitybdd.rest.utils.RestDecorationHelper.decorate(RestDecorationHelper.java:20)&#13;
+net.serenitybdd.rest.SerenityRest.given(SerenityRest.java:216)&#13;
+com.studentapp.junit.studentsinfo.FirstSerenityTest.thisIsaFailing(FirstSerenityTest.java:31)&#13;
+</system-err></testcase><testcase classname="com.studentapp.junit.studentsinfo.FirstSerenityTest" name="This isa pending"><skipped/></testcase><testcase classname="com.studentapp.junit.studentsinfo.FirstSerenityTest" name="This isaskippedtest"><skipped/></testcase><testcase classname="com.studentapp.junit.studentsinfo.FirstSerenityTest" name="Get all students"><error message="Could not initialize class net.serenitybdd.rest.utils.RestSpecificationFactory" type="java.lang.NoClassDefFoundError">Could not initialize class net.serenitybdd.rest.utils.RestSpecificationFactory</error><system-err>Could not initialize class net.serenitybdd.rest.utils.RestSpecificationFactory&#13;
+net.serenitybdd.rest.utils.RestDecorationHelper.decorate(RestDecorationHelper.java:20)&#13;
+net.serenitybdd.rest.SerenityRest.given(SerenityRest.java:216)&#13;
+com.studentapp.junit.studentsinfo.FirstSerenityTest.getAllStudents(FirstSerenityTest.java:25)&#13;
+</system-err></testcase></testsuite>
