@@ -14,7 +14,7 @@ import static org.hamcrest.Matchers.hasValue;
 
 public class Assignment3 {
 
-    static String firstName="SMOKEFIRST";
+    static String firstName="SMOKEFIRSTNAME";
     static String lastName="SMOKELAST";
     static String userName=TestUtils.getRandomValue()+"firstuser1";
     static String passWord="password@12";
