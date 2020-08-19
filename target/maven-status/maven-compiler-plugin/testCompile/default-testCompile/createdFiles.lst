@@ -1,3 +1,8 @@
-com\studentapp\junit\studentsinfo\FirstSerenityTest.class
-com\studentapp\junit\studentsidinfo\Serenityidinfo.class
 SenerityRestassignmets\Assignment3.class
+com\studentapp\testbase\TestBase.class
+SenerityRestassignmets\ProjectAssignment.class
+com\studentapp\junit\studentsidinfo\Serenityidinfo.class
+com\studentapp\utils\TestUtils.class
+com\studentapp\junit\studentsinfo\FirstSerenityTest.class
+com\studentapp\junit\studentsinfo\StudentCRUDtest.class
+SenerityRestassignmets\Assignment4.class

@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.studentapp.junit.studentsinfo.StudentCRUDtest" skipped="0" tests="1" time="3.28" timestamp="2020-05-06 02:31:14"><testcase classname="com.studentapp.junit.studentsinfo.StudentCRUDtest" name="This will create a new student"/></testsuite>
